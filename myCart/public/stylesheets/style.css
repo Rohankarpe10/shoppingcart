@@ -1,0 +1,11 @@
+.thumbnail img{
+  max-height: 80px ;
+}
+.boxed {
+  border: 6px solid rgb(67, 71, 67) ;
+}
+
+
+.thumbnail1 img{
+  max-height: 500px ;
+}
